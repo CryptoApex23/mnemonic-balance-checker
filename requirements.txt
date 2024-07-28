@@ -1,0 +1,6 @@
+web3
+eth-account
+bip-utils
+requests
+termcolor
+python-dotenv
