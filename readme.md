@@ -90,4 +90,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Contact
 
-If you have any questions or issues, feel free to open an issue on GitHub or contact me on telegram @cryptoapex_hub.
+If you have any questions or issues, feel free to open an issue on GitHub or contact me on telegram https://t.me/cryptoapex_hub.
